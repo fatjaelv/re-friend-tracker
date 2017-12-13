@@ -9,7 +9,7 @@
 
     private _guiModel = {
         "application": {
-            "title": "Marko Engineering Friend Tracker",
+            "title": "Elvis Engineering Friend Tracker",
             "formList": [
                 {
                     "id": "FriendForm",
